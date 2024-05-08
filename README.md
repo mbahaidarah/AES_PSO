@@ -1,2 +1,2 @@
 # AES_PSO
-Optimising AES flocking algorithm using PSO
+In this work, the Active Elastic Sheet (AES) model, which is a flocking algorithm, was optimised using particle swarm optimisation (PSO).
